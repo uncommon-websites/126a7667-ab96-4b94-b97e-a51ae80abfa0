@@ -1,6 +1,7 @@
 {
-	"name": "unc",
-	"short_name": "unc",
+	"name": "Soundium - Curated Audio Gear",
+	"short_name": "Soundium",
+	"description": "Experience premium audio gear before you buy. 200+ demo products in our Vilnius showroom.",
 	"icons": [
 		{
 			"src": "/web-app-manifest-192x192.png",
@@ -15,5 +16,7 @@
 			"purpose": "maskable"
 		}
 	],
-	"display": "standalone"
+	"display": "standalone",
+	"theme_color": "#191817",
+	"background_color": "#F9F8F4"
 }
